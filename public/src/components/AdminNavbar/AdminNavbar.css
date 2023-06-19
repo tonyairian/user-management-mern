@@ -1,0 +1,22 @@
+.navbar {
+  background-color: rgb(15, 100, 202);
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  justify-content: space-between;
+}
+.title {
+  color: white;
+  position: fixed;
+  text-align: center;
+  left: 10px;
+}
+.logoutBtn {
+  position: fixed;
+  right: 10px;
+  margin: 10px;
+  background-color: red;
+}

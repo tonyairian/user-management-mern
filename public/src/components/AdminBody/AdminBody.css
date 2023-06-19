@@ -1,0 +1,33 @@
+.addBtn{
+  margin-top: 20px;
+  background-color: green;
+}
+
+.saaaju{
+  text-align: center;
+  }
+
+/* .isList{
+  background-color: #fff;
+  border-top: 0.5rem solid #5062ff;
+  border-radius: 0.5rem;
+  padding: 1rem 3rem 2rem;
+
+  position: fixed;
+
+  top:150;
+  left: 100;
+  right: 100;
+  max-height: 800px;
+  overflow-y: scroll;
+} */
+
+.isList{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchBtn{
+  margin-left: 20px;
+}
